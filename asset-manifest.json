@@ -1,8 +1,9 @@
 {
   "files": {
     "main.css": "/static/css/main.5048d7fd.css",
-    "main.js": "/static/js/main.edd15c66.js",
+    "main.js": "/static/js/main.3fc63b7d.js",
     "static/media/myntraimg.png": "/static/media/myntraimg.e749b75a14bd5fbee0f6.png",
+    "static/media/internship.png": "/static/media/internship.5b3b77567a77ad924354.png",
     "static/media/RahulResume.pdf": "/static/media/RahulResume.5b3b0dde9c3583c8aa5e.pdf",
     "static/media/tmetricimg.png": "/static/media/tmetricimg.719ac1ed0c87e2193a8a.png",
     "static/media/git.png": "/static/media/git.0983b7b8f96629e083f1.png",
@@ -14,10 +15,10 @@
     "static/media/Railway.svg": "/static/media/Railway.61efd34a3b24b28f07d3aa1f050f7644.svg",
     "index.html": "/index.html",
     "main.5048d7fd.css.map": "/static/css/main.5048d7fd.css.map",
-    "main.edd15c66.js.map": "/static/js/main.edd15c66.js.map"
+    "main.3fc63b7d.js.map": "/static/js/main.3fc63b7d.js.map"
   },
   "entrypoints": [
     "static/css/main.5048d7fd.css",
-    "static/js/main.edd15c66.js"
+    "static/js/main.3fc63b7d.js"
   ]
 }
