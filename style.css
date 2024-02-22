@@ -24,6 +24,6 @@ body{
 }
 
 ::-webkit-scrollbar-thumb{
-   background:linear-gradient(red ,yellow);
+   background:linear-gradient(yellow ,red);
    border-radius: 5px;
 }
